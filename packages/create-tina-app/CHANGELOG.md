@@ -1,5 +1,11 @@
 # create-tina-app
 
+## 1.1.0
+
+### Minor Changes
+
+- 011571c8a: Added demo docs starter
+
 ## 1.0.5
 
 ### Patch Changes
